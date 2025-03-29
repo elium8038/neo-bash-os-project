@@ -1,0 +1,15 @@
+# Compiler
+CC = gcc
+
+# C Flags
+CFLAGS = -Wall -Wextra -g
+LDFLAGS = -fsanitize=address -fsanitize=leak
+.PHONY = main
+
+all = main
+
+main: main.o
+	$(CC) $^ -o $@ $(LDFLAGS)
+
+clean: 
+	rm *.o main
