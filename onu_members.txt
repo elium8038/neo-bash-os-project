@@ -1,0 +1,12 @@
+Afghanistan;19-11-1946
+Albania;14-12-1955
+Algeria;08-10-1962
+Andorra;28-07-1993
+Angola;01-12-1976
+Antigua_Barbuda;11-11-1981
+Argentina;24-10-1945
+Armenia;02-03-1992
+Australia;01-11-1945
+Austra;14-12-1955
+Azerbaijan;02-03-1992
+Bahamas;18-09-1973
